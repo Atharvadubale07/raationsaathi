@@ -1,0 +1,10 @@
+{
+  "name": "rationsaathi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RationSaathi — Public Distribution Entitlement & Dispute Assistant",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "dev": "cd frontend && npm run dev"
+  }
+}
